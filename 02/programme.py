@@ -5,7 +5,7 @@
 """
 
 def exo_02():
-  w = "bonjour" 
+  w = "Bonjour" 
   return w
 
 def main():
