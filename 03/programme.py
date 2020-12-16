@@ -4,9 +4,10 @@
 @author: CollegeBoreal
 """
 
+
 def exo_03(liste):
   # Selectionner une liste de nombre pairs uniquement
-  pairs = ??? 
+  pairs = liste[ n*n for n in (98,24,8)if x% 2 ]
   return sorted(pairs)
 
 def main():
