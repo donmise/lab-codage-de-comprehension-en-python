@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: CollegeBoreal
+@author: 300117791
 """
 
 def main():
